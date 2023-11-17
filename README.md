@@ -1,5 +1,4 @@
 # UTS_NO_6
-1
 
 public class Variabel {
     public static void main(String[] args) {
